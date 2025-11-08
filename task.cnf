@@ -19,11 +19,11 @@ user		= mysql
 # pid-file	= /var/run/mysqld/mysqld.pid
 # socket	= /var/run/mysqld/mysqld.sock
 
-# port		= 3306
-port		= 443
+port		= 3306
+# port		= 443
 
-# datadir	= /var/lib/mysql
-datadir	= /var/data/mysql
+datadir	= /var/lib/mysql
+# datadir	= /var/data/mysql
 
 
 # If MySQL is running as a replication slave, this should be
